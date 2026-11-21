@@ -1,5 +1,5 @@
 # Setting Up Continuous Integration with Jenkins and GitHub
-final test i hope
+final test i  k fine another one
 ## Objective:
 ​This lab's focus is on partially building a CICD pipeline by integrating Github and Jenkins. I have included steps to and troubleshooting common issues faced during setup, and ensuring a smooth continuous integration workflow. You'll learn to set up Jenkins, connect it to a GitHub repository, and resolve authentication, branch configuration challenges.
 ### How to submit:
